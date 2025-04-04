@@ -1,8 +1,8 @@
 import { Routes, Route } from "react-router-dom";
+import './App.css';
 import Product from "./product";
 import Index from "./index";
 import Header from "../components/header";
-import './App.css';
 
 function App() {
   return (
@@ -10,8 +10,8 @@ function App() {
       <Header/>
       {/* Routes Definition */}
       <Routes>
-        <Route path="/products" element={<Product />} />
         <Route path="/" element={<Index />} />
+        <Route path="/products" element={<Product />} />
       </Routes>
     </div>
   );
