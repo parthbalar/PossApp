@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Strawberry",
+      "price": 10,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1JRqYt88JbefZAUBu0VZ5iay41bhLFNFb_qpUjPvLkgaBmtbA67fXXWKsdGCNUVKEaAIBEf7jjrmdSvc65GrqiQ"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "price": 20,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cavendish_Banana_DS.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "price": 25,
+      "image": "https://www.collinsdictionary.com/images/full/apple_158989157.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pineapple",
+      "price": 100,
+      "image": "https://images.squarespace-cdn.com/content/v1/66947addcaa8c0315bbe2c3f/645a0da1-196c-4f9d-920d-2cc625f52452/_Pineapple-_0000_Pineapple-Choose-It.png"
+    },
+    {
+      "id": 5,
+      "name": "Grapes",
+      "price": 40,
+      "image": "https://rukminim3.flixcart.com/image/850/1000/kt0enww0/plant-seed/h/h/n/25-dg-214-paudha-original-imag6fgvre6bmd5y.jpeg?q=90&crop=false"
+    },
+    {
+      "id": 6,
+      "name": "Cherry",
+      "price": 10,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/8/441392955/TQ/PW/AB/215833880/fresh-cherry-fruit.png"
+    },
+    {
+      "id": 7,
+      "name": "Red chilly",
+      "price": 30,
+      "image": "https://5.imimg.com/data5/KC/ZI/DV/SELLER-52971039/red-chilly-5-kg.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Capsicum",
+      "price": 15,
+      "image": "https://png.pngtree.com/png-clipart/20210802/ourmid/pngtree-three-capsicum-png-png-image_3771102.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Onion",
+      "price": 20,
+      "image": "https://e7.pngegg.com/pngimages/788/438/png-clipart-onion-onion-vegetables-thumbnail.png"
+    },
+    {
+      "id": 10,
+      "name": "Mushroom",
+      "price": 13,
+      "image": "https://pngfre.com/wp-content/uploads/mushroom-poster.png"
+    },
+    {
+      "id": 11,
+      "name": "Guava",
+      "price": 15,
+      "image": "https://img.freepik.com/free-psd/guava-fruits-isolated-transparent-background_191095-14726.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Tomato",
+      "price": 20,
+      "image": "https://png.pngtree.com/png-clipart/20230113/ourmid/pngtree-red-fresh-tomato-with-green-leaf-png-image_6561484.png"
+    },
+    {
+      "id": 13,
+      "name": "Brinjal",
+      "price": 20,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/029/713/575/small_2x/brinjal-transparent-background-png.png"
+    },
+    {
+      "id": 14,
+      "name": "Carrot",
+      "price": 35,
+      "image": "https://www.jiomart.com/images/product/original/590003546/carrot-orange-500-g-product-images-o590003546-p590003546-1-202408070949.jpg?im=Resize=(1000,1000)"
+    },
+    {
+      "id": 15,
+      "name": "Broccoli",
+      "price": 55,
+      "image": "https://w7.pngwing.com/pngs/1023/225/png-transparent-broccoli-organic-food-vegetable-broccoli-leaf-vegetable-food-cooking-thumbnail.png"
+    }
+  ]
+  

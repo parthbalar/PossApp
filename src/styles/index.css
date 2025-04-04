@@ -1,0 +1,17 @@
+.index{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    gap: 20px;
+}
+
+nav .a{
+    text-decoration: none;
+    color: rgb(78, 75, 75);
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+}
